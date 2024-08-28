@@ -1,4 +1,4 @@
-Last updated on 8/28/2024 by Kylene Hutchinson.
+Last updated on 8/28/2024 by Alicia Detelich.
 **Tags:** #preservica #sql #python
 
 | Start Date | End Date | Contributors | Informed Stakeholders |
