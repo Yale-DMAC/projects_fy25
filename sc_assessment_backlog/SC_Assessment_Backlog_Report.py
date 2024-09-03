@@ -1,7 +1,7 @@
 import connections.SQL as SQL
 import pandas as pd
 from SC_Assessment_Backlog_SQL import QUERY as Q1
-from SC_Assessment_Backlog_other_SQL import QUERY as Q2
+from SC_Assessment_Backlog_Other_SQL import QUERY as Q2
 import time
 
 #Creates tables from the DataFrame that counts the number of unique resources in a column, both in the entire DataFrame and grouped by Repository.
