@@ -1,8 +1,10 @@
 # SCMS FY25 Project Repo
-Last updated 08/29/2025 by Kylene Hutchinson
+Last updated 09/03/2024 by Kylene Hutchinson
 
 ## Overview
-These are projects and tasks worked on by the SCMS unit during the Fiscal Year July 2024 - June 2025.
+These are projects and tasks worked on by the SCMS unit during the Fiscal Year July 2024 - June 2025.  
+- Please use the [Documentation Template](Doc_Template.md) as a README.md in your project folder for the creation of Project Documentation.
+- Please add basic details about your project folders down below.
 
 ## Directory
 | Name | Contributors | System | Notes |
