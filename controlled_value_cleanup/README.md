@@ -1,12 +1,12 @@
 # Controlled Values Cleanup
 Last updated on 09/03/2024 by Kylene Hutchinson.
 
-| Start Date | End Date | Contributors      | Informed Stakeholders |
-| ---------- | -------- | ----------------- | --------------------- |
-| 08/26/2024 |          | Kylene Hutchinson | Alicia Deletich       |
+| Start Date | End Date   | Contributors      | Informed Stakeholders |
+| ---------- | ---------- | ----------------- | --------------------- |
+| 08/26/2024 | 09/04/2024 | Kylene Hutchinson | Alicia Deletich       |
 # Overview
 ## Problem Statement
-The controlled values describing the record contents contains duplicate values that need to be merged and updated (i.e. 'photo' and 'photograph', 'CD' and 'CD-R')
+The controlled values describing the record contents contains duplicate values that need to be merged and updated (i.e. 'photo' and 'photograph', 'Box' and 'box')
 ## Goals
 - Generate report of controlled values for enums 14, 16
 - Review and ID duplicates, errors, etc. and determine appropriate value
@@ -16,10 +16,6 @@ The controlled values describing the record contents contains duplicate values t
 # Background
 Originally, all users could add new values to Controlled Values. However, this lead to duplicate and inappropriate values being added to the list. This happened most frequently because a column in the spreadsheet would be deleted by mistake and the importer would pull the Child type from the Child Indicator instead.
 ArchivesSpace has been updated to reject records with incorrect controlled values rather than add them to the list, but the duplicate values need to be cleaned up.
-
-Container Type (container_type) : Container Instance Child Types /enumerations?id=16
-Extent Extent Type (extent_extent_type) : Extent Types /enumerations?id=14
-API uri: config/enumerations/#
 
 ## Process
 See [controlled_value_cleanup_report.py](controlled_value_cleanup_report.py), [controlled_value_cleanup_migrate.py](controlled_value_cleanup_migrate.py), and [240903_enum_migration.xlsx](240903_enum_migration.xlsx) for files relevant to this project.
@@ -41,7 +37,8 @@ See [controlled_value_cleanup_report.py](controlled_value_cleanup_report.py), [c
 | 08/29/2024 | Even more Code!!        | Updated python reporter and added in extent_type reports. Reviewed Extent_Type counts and made notes about merging                                                                                                                                                                                                                               |
 | 08/30/2024 | Contacted Stakeholders  | Contacted Michael Lotstein about the archival objects Instance Child Types being updated to Folder and asked for him to let me know if anything should be changed. All of Abigail Aguilera's objects helpfully had 'folder' in the title, so I sent her an email warning her in case any of them should not be marked as folder for some reason. |
 | 08/30/2024 | Tested Migration API    | Keep getting a 403 when trying to migrate enumeration data. Might be missing the 'update_enumeration_record' permission.<br>Created a script that allows the user to input an excel sheet with columns 'to', 'from', and 'enumid' which should migrate each row in the spreadsheet.                                                              |
-| 09/03/2024 | Tested Migration API    | Alicia gave necessary permissions in test environment. Ran my code and everything came back as expected. Need to double check records updated correctly but Test is having an error that prevents searching for records today.                                                                                                                   |
+| 09/03/2024 | Tested Migration API    | Alicia gave necessary permissions in test environment. Ran my code and everything came back as expected. Spot checked a few records and everything appeared to be the correct type.                                                                                                                   |
+| 09/04/2024 | Migrated Enum Values | Ran the migration in production. Everything merged smoothly. |
 
 # Review
 
@@ -252,7 +249,10 @@ See [controlled_value_cleanup_report.py](controlled_value_cleanup_report.py), [c
 | Abigail Aguilera | Archives Assistant 2 in Beinecke Special Collections Technical Services | Confirmed that all her archival objects should have a Child Type of Folder |
 | Michael Lotstein | University Archivist, Beinecke Public Services and Operations           | Confirmed that all his archival objects should have a Child Type of Folder |
 ## Results
-Describe the outcome of the project and describe any relevant issues that arose.
+- Extent Values table had 16 values that needed to be merged into another value, only 1 of which was an error value ('1') the rest were duplicates.
+- Container Type Values table had 38 values that needed to be merged into another value, 4 of which were duplicates and the rest were error values that were merged into folders.
+  
+Migration ran smoothly with no issues. All error values were approved by their creators to be merged into the folders value.
 
 # References
 
