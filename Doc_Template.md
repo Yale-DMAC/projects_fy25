@@ -1,9 +1,10 @@
-Last updated on [DATE] by Kylene Hutchinson.
-**Tags:**
+# TITLE
+Last updated on [DATE] by [NAME].
 
 | Start Date | End Date | Contributors | Informed Stakeholders |
 | ---------- | -------- | ------------ | --------------------- |
 |            |          |              |                       |
+
 # Overview
 ## Problem Statement
 Include statement of the problem and its impact.
@@ -13,9 +14,8 @@ Describe the goals of the project and what outcomes are required to measure the 
 Detailed Background of the project, data, and services. Include reasons why specific decisions were made.
 
 
->[!Process]
->### Step 1: Statement
->details
+# Process
+- List steps here
 
 # Notes
 (Keep track of meetings and formal communication of the project. Also include any highlights in the project's progress such as roadblocks or changes in approach.)
