@@ -11,8 +11,10 @@ There are a number of finding aids in the YCBA-RBM ASpace repository that have A
 
 ## Goals
  -Identify records in YCBA-RBM with <emph> in title
- -Create/edit spreadsheet with updated titles
- -Update titles
+ 
+-Create/edit spreadsheet with updated titles
+
+-Update titles
 
 # Background
 N/A
@@ -547,7 +549,7 @@ N/A
 
 ## Communication
 Name             | Position                                                      | Notes                                                                   |
-|Alicia Detelich  | Head of Special Collections Metadata Services in Beinecke     |Alicia Detelich gave advice and direction on how to complete project/task|
+|Alicia Detelich | Head of Special Collections Metadata Services in Beinecke     |Alicia Detelich gave advice and direction on how to complete project/task|
 
 ## Results
 <emph> tag/title updates ran smoothly with no issues.
