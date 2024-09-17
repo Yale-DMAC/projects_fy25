@@ -21,7 +21,8 @@ N/A
 
 
 # Process
-- see [ycba_title_update/get_ycba_emph_tags_titles.sql], [ycba_title_update/update_title.py]
+
+-see [ycba_title_update/get_ycba_emph_tags_titles.sql], [ycba_title_update/update_title.py]
 
 -utilized 'get_ycba_emph_tags_titles.sql' SQL query that counts the number of records within the YCBA-RBM Aspace repositiory that have Archival objects with <emph> tags in title.
 
