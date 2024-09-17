@@ -47,6 +47,7 @@ N/A
 |uri|                                            |title|
 
 -|/repositories/2/archival_objects/3848|  <emph>Letter from Ruvigny de Cosne to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/3849|  <emph>Letter from Ruvigny de Cosne to James Bruce</emph> : autograph manuscript signed|
 -|/repositories/2/archival_objects/3850|  <emph>Letter from Jean Desbiey to James Bruce</emph> : autograph manuscript signed|
 -|/repositories/2/archival_objects/3851|  <emph>Letter from de Monsert to Chauvigny (?)</emph> : autograph manuscript signed|
