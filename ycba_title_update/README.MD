@@ -3,7 +3,7 @@ Last updated on [9/17/2024] by [Tyler Wade].
 
 | Start Date | End Date | Contributors | Informed Stakeholders |
 | ---------- | -------- | ------------ | --------------------- |
-| 08/14/2024  09/05/2024|  Tyler Wade  | Alicia Deletich       |                       |
+| 08/14/2024 |09/05/2024|  Tyler Wade  | Alicia Deletich       |                       |
 
 # Overview
 ## Problem Statement
