@@ -327,117 +327,226 @@ N/A
 -|/repositories/2/archival_objects/3987|  <emph>Letter from Constantino Stinca to James Bruce</emph> : autograph manuscript signed|
 
 -|/repositories/2/archival_objects/3988|  <emph>Letter from Giovanni Xeno to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/3989|  <emph>Letter from Horace Mann to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/3990|  <emph>Letter from Edward Clarke to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/3991|  <emph>Letter from Joseph Richardson to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/3992|  <emph>Letter from Ployard to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/3993|  <emph>Letter from John Birkbeck to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/3994|  <emph>Letter from Lefroy and Charron to James Bruce</emph> : manuscript signed|
+
 -|/repositories/2/archival_objects/3995|  <emph>Letters from Lefroy and Charron to James Bruce</emph> : manuscripts|
+
 -|/repositories/2/archival_objects/3996|  <emph>Letter from George Pitt to James Bruce</emph> : manuscript signed|
+
 -|/repositories/2/archival_objects/3997|  <emph>Letter from E. Brander to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/3998|  <emph>Letter from Nicola Voverano to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/3999|  <emph>Letter from William Hamilton to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4000|  <emph>Letter from John Nightman to James Bruce</emph> : manuscript|
+
 -|/repositories/2/archival_objects/4001|  <emph>Letter from Patrick Hays to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4002|  <emph>Letter from Patrick Hays to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4003|  <emph>Letter from Ployard to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4004|  <emph>Letter from George Fraser to James Bruce</emph> : manuscript signed|
+
 -|/repositories/2/archival_objects/4005|  <emph>Letter from Francesco Voverano to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4006|  <emph>Letter from Theodore Alexiano to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4007|  <emph>Copy of a letter from George Chalmers to James Bruce</emph> : manuscript|
+
 -|/repositories/2/archival_objects/4008|  <emph>Letter from Robert Forbes to James Bruce</emph> : manuscript signed|
+
 -|/repositories/2/archival_objects/4009|  <emph>Letter from James Bruce to Unknown [George Halifax?]</emph> : autograph manuscript|
+
 -|/repositories/2/archival_objects/4010|  <emph>Letter from James Bruce to Unknown [George Halifax?]</emph> : autograph manuscript|
+
 -|/repositories/2/archival_objects/4013|  <emph>Letter from James Bruce to Unknown</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4014|  <emph>Letter from James Bruce to Paolo Colucci</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4015|  <emph>Letter from James Bruce to Paolo Colucci</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4016|  <emph>Letter from James Bruce to Unknown [Halifax?]</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4017|  <emph>Letter from George Chalmers to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4018|  <emph>Letter from Joseph Popham to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4019|  <emph>Letters from James Bruce to Unknown and Drummond & Co.</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4020|  <emph>Letter from Constantino Stinca to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4021|  <emph>Letter from R. Muller to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4022|  <emph>Letter from John Birkbeck to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4023|  <emph>Letters from Ployard to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4024|  <emph>Letters from Ployard to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4025|  <emph>Letter from Giovanni Stefanopoli to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4026|  <emph>Letter from James Bruce to Unknown [Halifax?]</emph> : autograph manuscript|
+
 -|/repositories/2/archival_objects/4027|  <emph>Letter from Constantino Stinca to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4115|  <emph>Letter from Lefroy and Charron to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4116|  <emph>Letter from Angelo Dordenghi to Luigi Balugani</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4117|  <emph>Letter from Tho. Townshend to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4118|  <emph>Letter from Joseph Popham to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4119|  <emph>Letter from Kirkpatricks and Escott to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4120|  <emph>Letter from Giovanni Comata to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4121|  <emph>Letter from Giovanni Comata to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4122|  <emph>Letter from Giovanni Comata to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4123|  <emph>Letter from Giuseppe Chiesa to Luigi Balugani</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4124|  <emph>Letter from William Hamilton to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4125|  <emph>Letter from James Bruce to Unknown</emph>: autograph manuscript |
+
 -|/repositories/2/archival_objects/4126|  <emph>Letter from Giovanni Comata</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4127|  <emph>Letter from Wombwell's Coxon and Wombwell to James Bruce</emph>: manuscript signed|
+
 -|/repositories/2/archival_objects/4128|  <emph>Letter from John Dick to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4129|  <emph>Letter from Giovanni Comata to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4130|  <emph>Letter from Domenico Hernando to Unknown [James Bruce]</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4131|  <emph>Letter from [James Bruce] to [Lord Halifax]</emph>: autograph manuscript|
+
 -|/repositories/2/archival_objects/4132|  <emph>Letter from Thomas Townshend to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4133|  <emph>Copy of a letter from Thomas Townshend to Archibald Cleveland</emph>: manuscript|
+
 -|/repositories/2/archival_objects/4134|  <emph>Letter from Thomas Townshend to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4135|  <emph>Letter from Francesco Bichi to [James Bruce]</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4136|  <emph>Letter from James Dick to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4137|  <emph>Letter from Dunk Halifax to James Bruce</emph>: manuscript signed|
+
 -|/repositories/2/archival_objects/4138|  <emph>Letter from Patrick MacKellar to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4139|  <emph>Letter from George Whatley to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4140|  <emph>Letter from Frederic Armano to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4141|  <emph>Letter from Lefroy and Charron to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4142|  <emph>Letter from James Bruce to Eric Brander</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4143|  <emph>Letters from Ployart to James Bruce</emph>: manuscripts|
+
 -|/repositories/2/archival_objects/4144|  <emph>Letter from P. Lyons to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4145|  <emph>Letter from George Chalmers to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4146|  <emph>Letter from Anthony Seyel to Unknown</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4147|  <emph>Letter from Simon Peter Cruise to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4148|  <emph>Letter from Archibald Cleveland to James Bruce</emph>: manuscript signed|
+
 -|/repositories/2/archival_objects/4149|  <emph>Letter from Archibald Cleveland to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4150|  <emph>Letter from Giuseppe Zapello to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4151|  <emph>Letter from Robert Kirke to [James Bruce]</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4152|  <emph>Letter from Giovanni Stefanopoli to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4153|  <emph>Letter from Archibald Cleveland to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4154|  <emph>Letter from James Bruce to [Archibald Cleveland]</emph>: autograph manuscript|
+
 -|/repositories/2/archival_objects/4155|  <emph>Letter from Archibald Cleveland to [James Bruce]</emph>: autograph manuscript|
+
 -|/repositories/2/archival_objects/4156|  <emph>Letter from Robert Kirke to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4157|  <emph>Letter from Andrew Lumisden to James Bruce</emph>: autograph manuscript|
+
 -|/repositories/2/archival_objects/4158|  <emph>Letter from Robert Kirke to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4159|  <emph>Letter from Lefroy and Charron to James Bruce</emph>: autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4160|  <emph>Letter from Giovanni Xeno to James Bruce</emph> : manuscript signed|
+
 -|/repositories/2/archival_objects/4161|  <emph>Letter from Giovanni Xeno to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4162|  <emph>Letter from Giovanni Xeno to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4163|  <emph>Letter from George Lawrence to [James Bruce]</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4164|  <emph>Letter from Archibald Cleveland to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4166|  <emph>Letter from Thomas Seymour to James Bruce</emph> : manuscript signed|
+
 -|/repositories/2/archival_objects/4167|  <emph>Letter from James Bruce to [Lord Halifax]</emph> : autograph manuscript|
+
 -|/repositories/2/archival_objects/4168|  <emph>Letter from Simon Peter Cruise to [Robert Kirke]</emph> : manuscript|
+
 -|/repositories/2/archival_objects/4169|  <emph>Letter from Robert Kirke to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4170|  <emph>Letter from Robert Kirke to [James Bruce]</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4171|  <emph>Letters from James Bruce to Consul Kirke</emph> : autograph manuscripts signed|
+
 -|/repositories/2/archival_objects/4172|  <emph>Letter from Robert Kirke to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4173|  <emph>Letter from Chore[?] to [James Bruce]</emph> : manuscript signed|
+
 -|/repositories/2/archival_objects/4174|  <emph>Letter from Charles Gordon to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4175|  <emph>Letter from D.V. Servitore[?] to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4177|  <emph>Letter from V.D. Servitore and Gio. Percile[?] to Unknown</emph> : manuscript signed|
+
 -|/repositories/2/archival_objects/4178|  <emph>Letter from Lefroy and Charron to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4179|  <emph>Letter from Giovanni Comata to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4180|  <emph>Letter from Charlie Gordon to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4181|  <emph>Letter from Isach Ser[?] to James Bruce</emph> : manuscript signed|
+
 -|/repositories/2/archival_objects/4182|  <emph>Letter from Busnah[?] to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4183|  <emph>Letter from Gio DiGiano[?] to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4185|  <emph>Letter from Charles Gordon to James Bruce</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4186|  <emph>Letter from Gio. Giano to Unknown</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4190|  <emph>Letter from Giuseppe Crudli[?] to Luigi Balugani</emph> : autograph manuscript signed|
+
 -|/repositories/2/archival_objects/4191|  <emph>Letter from [James Bruce] to Unknown</emph> : autograph manuscript|
 
+
 ## Communication
- Name             | Position                                                      | Notes                                                                   |
+Name             | Position                                                      | Notes                                                                   |
 |Alicia Detelich  | Head of Special Collections Metadata Services in Beinecke     |Alicia Detelich gave advice and direction on how to complete project/task|
 
 ## Results
