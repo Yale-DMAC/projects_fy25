@@ -1,5 +1,4 @@
-Last updated on 09/16/2024 by Kylene Hutchinson.
-**Tags:**
+Last updated on 09/20/2024 by Kylene Hutchinson.
 
 | Start Date | End Date   | Contributors      | Informed Stakeholders                            |
 | ---------- | ---------- | ----------------- | ------------------------------------------------ |
