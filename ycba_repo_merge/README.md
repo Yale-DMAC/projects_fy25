@@ -18,7 +18,7 @@ Process was originally performed in January 2024 but failed in Production.
 -Why do they need to merge?-
 # Process
 See [transfer_resources_updated.py](transfer_resources_updated.py), [transfers_sql_query.sql](transfers_sql_query.sql), [transfers.csv](transfers.csv), and [transfers_success.csv](transfers_success.csv) for files used during the merge.  
-See [original/transfer_resources.py](original/transfer_resources.py), [original/ycba_transfers_prod.csv](original/ycba_transfers_prod.csv), [original/ycba_transfers_prod_errors.csv](original/ycba_transfers_prod_errors.csv), and [original/log.txt](original/log.txt) for the original attempt. 
+See [original/transfer_resources.py](original/transfer_resources.py), [original/ycba_transfers_prod.csv](original/ycba_transfers_prod.csv), and [original/ycba_transfers_prod_errors.csv](original/ycba_transfers_prod_errors.csv) for the original attempt. 
 
 - Pull a list of resources using a SQL query and save it to a csv with columns for the URI and the target_repo.
 - Use API to create backups and transfer resources to the target repository.
