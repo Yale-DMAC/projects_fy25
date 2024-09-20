@@ -1,3 +1,0 @@
-uri,target_repo,info
-/repositories/2/resources/13201,/repositories/3,"ArchivesSpace Error! URI: /repositories/2/resources/13201/transfer?target_repo=/repositories/3, Status code: 400, Message: {'db_error': ['Database integrity constraint conflict: Java::JavaSql::SQLIntegrityConstraintViolationException: Duplicate entry \'3-[""0000"",null,null,null]\' for key \'resource.resource_unique_identifier\'']}"
-uri,target_repo,info
