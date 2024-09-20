@@ -1,5 +1,5 @@
 2024-01-24 16:02:30,651 DEBUG connectionpool _new_conn Starting new HTTPS connection (1): archivesspace.library.yale.edu:443
-2024-01-24 16:02:31,167 DEBUG connectionpool _make_request https://archivesspace.library.yale.edu:443 "POST /api/users/amd243/login?password=Fluffernutter27 HTTP/1.1" 200 None
+2024-01-24 16:02:31,167 DEBUG connectionpool _make_request https://archivesspace.library.yale.edu:443 "POST /api/users/amd243/login?password=[REDACTED] HTTP/1.1" 200 None
 2024-01-24 16:02:31,455 DEBUG connectionpool _make_request https://archivesspace.library.yale.edu:443 "GET /api/repositories/2/resources/13201 HTTP/1.1" 200 None
 2024-01-24 16:02:31,996 DEBUG connectionpool _make_request https://archivesspace.library.yale.edu:443 "POST /api/repositories/2/resources/13201/transfer?target_repo=/repositories/3 HTTP/1.1" 400 216
 2024-01-24 16:02:31,997 ERROR transfer_resources main ArchivesSpace Error! URI: /repositories/2/resources/13201/transfer?target_repo=/repositories/3, Status code: 400, Message: {'db_error': ['Database integrity constraint conflict: Java::JavaSql::SQLIntegrityConstraintViolationException: Duplicate entry \'3-["0000",null,null,null]\' for key \'resource.resource_unique_identifier\'']}
@@ -20,7 +20,7 @@ Traceback (most recent call last):
     raise JSONDecodeError("Expecting value", s, err.value) from None
 json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 2024-01-24 16:10:33,611 DEBUG connectionpool _new_conn Starting new HTTPS connection (1): archivesspace.library.yale.edu:443
-2024-01-24 16:10:34,137 DEBUG connectionpool _make_request https://archivesspace.library.yale.edu:443 "POST /api/users/amd243/login?password=Fluffernutter27 HTTP/1.1" 200 None
+2024-01-24 16:10:34,137 DEBUG connectionpool _make_request https://archivesspace.library.yale.edu:443 "POST /api/users/amd243/login?password=[REDACTED] HTTP/1.1" 200 None
 2024-01-24 16:10:34,458 DEBUG connectionpool _make_request https://archivesspace.library.yale.edu:443 "GET /api/repositories/2/resources/13201 HTTP/1.1" 200 None
 2024-01-24 16:10:35,010 DEBUG connectionpool _make_request https://archivesspace.library.yale.edu:443 "POST /api/repositories/2/resources/13201/transfer?target_repo=/repositories/3 HTTP/1.1" 400 216
 2024-01-24 16:10:46,468 DEBUG transfer_resources main Exiting on user request...
