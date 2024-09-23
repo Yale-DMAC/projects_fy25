@@ -1,5 +1,5 @@
 # YCBA Repository Merge
-Last updated on 09/20/2024 by Kylene Hutchinson.
+Last updated on 09/23/2024 by Kylene Hutchinson.
 
 | Start Date | End Date   | Contributors      | Informed Stakeholders                            |
 | ---------- | ---------- | ----------------- | ------------------------------------------------ |
@@ -13,9 +13,12 @@ Alicia thinks Test probably didn't have Preservica objects, but there are some i
 - Identify and resolve merging errors
 - Re-run merge script in production
 # Background
-Process was originally performed in January 2024 but failed in Production.
+Process was originally performed in January 2024 but failed in Production.  
+  
+Originally the Rate Books and Manuscripts (RBM) and the Institutional Archives (IA) were stewarded by separate departments. However, during the 2020 Archives at Yale merger the two departments were united into a single Archives department. This organizational change was enacted to provide better patron service and more efficient stewardship.  
 
--Why do they need to merge?-
+Yale Center for British Art (YCBA) has requested the two repositories are merged into one repository to reflect this merge in departments.
+
 # Process
 See [transfer_resources_updated.py](transfer_resources_updated.py), [transfers_sql_query.sql](transfers_sql_query.sql), [transfers.csv](transfers.csv), and [transfers_success.csv](transfers_success.csv) for files used during the merge.  
 See [original/transfer_resources.py](original/transfer_resources.py), [original/ycba_transfers_prod.csv](original/ycba_transfers_prod.csv), and [original/ycba_transfers_prod_errors.csv](original/ycba_transfers_prod_errors.csv) for the original attempt. 
@@ -49,11 +52,13 @@ See [original/transfer_resources.py](original/transfer_resources.py), [original/
 ## Communication
 | Name             | Position                                                   | Notes                                                                              |
 | ---------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Alicia Detelich  | Assistant Director of Special Collection Metadata Services | - Assigned Project<br>- Confirmed details about previous errors<br>-Approved Merge |
-| Jess Quagliaroli | Chief Archivist, Yale Center for British Art               | Informed of Successful Repo Merge                                                  |
-| Francis Lapka    | Senior Catalogue Librarian, Yale Center for British Art    | Informed of Successful Repo Merge                                                  |
+| Alicia Detelich  | Assistant Director of Special Collection Metadata Services | - Assigned Project<br>- Confirmed details about previous errors<br>-Approved Merge<br>- Will follow up on the Archives at Yale interface update |
+| Jess Quagliaroli | Chief Archivist, Yale Center for British Art               | - Informed of Successful Repo Merge<br>- Requested an update to Archives at Yale interface to reflect the repo merge                                           |
+| Francis Lapka    | Senior Catalogue Librarian, Yale Center for British Art    | - Informed of Successful Repo Merge<br>- Provided background information<br>- Requested an update to Archives at Yale interface to reflect the repo merge                                              |
 ## Results
-Original errors seem to be the result of an identifier being duplicated between the two merging repos (trying to move repo/2/0000 into repo 3 when repo/3/0000 already exists). After fixing the duplicated identifier, everything was able to smoothly transfer all 86 records from RBM to IA.
+Original errors seem to be the result of an identifier being duplicated between the two merging repos (trying to move repo/2/0000 into repo 3 when repo/3/0000 already exists). After fixing the duplicated identifier, everything was able to smoothly transfer all 86 records from RBM to IA.  
+
+Francis and Jess both requested that the Archives at Yale interface be updated to reflect the change in the ArchivesSpace repositories. Currently it still displays both the IA and RBM repos for filtering. Alicia and Trip will update this, and the YCBA-RBM repo will be suppressed in the staff interface as well.
 
 # References
 
