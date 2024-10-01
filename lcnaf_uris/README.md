@@ -1,21 +1,32 @@
 # TITLE
-Last updated on [DATE] by [NAME].
+Last updated on [10/1/2024] by [Tyler Wade].
 
 | Start Date | End Date | Contributors | Informed Stakeholders |
 | ---------- | -------- | ------------ | --------------------- |
-|            |          |              |                       |
+| 09/05/2024 |09/27/2024|  Tyler Wade  |   Alicia Deletich     |                       |
 
 # Overview
 ## Problem Statement
-Include statement of the problem and its impact.
+-Agent records imported from LCNAF do not include the full HTTP address, only the record identifier. Example: https://archivesspace.library.yale.edu/agents/agent_person/6660
+
 ## Goals
-Describe the goals of the project and what outcomes are required to measure the success of the project.
+-Identify all agent records which do not include full HTTP address (http://id.loc.gov/authorities/names/[record_id])
+
+-Update agent records to include address
+(there may be some other invalid record identifiers other than those which do not include the HTTP address (e.g. names in the identifier field). These should be fixed as well.)
+
+
 # Background
-Detailed Background of the project, data, and services. Include reasons why specific decisions were made.
+N/A
 
 
 # Process
-- List steps here
+-needed to identify all agent records imported from LCNAF that do not include the full HTTP addresses
+
+-all agent records that did not have LCNAF HTTP addresses where then transferred into an CSV spreadsheet(https://yaleedu-my.sharepoint.com/:x:/g/personal/tyler_wade_yale_edu/EbnXUzlWBpVMiC5dtgGEjgIBC-D8bXN4vq46IpqSSiiY7Q?e=YEE3CK)
+
+-Created a script to replace all agent records with LCNAF Http addresses and set them as the primary agent record identifier (C:\Users\tw722\archive_space\aspace_tools\src\aspace_tools\import_requests_agents.py)
+
 
 # Notes
 (Keep track of meetings and formal communication of the project. Also include any highlights in the project's progress such as roadblocks or changes in approach.)
