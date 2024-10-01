@@ -25,7 +25,7 @@ N/A
 
 -all agent records that did not have LCNAF HTTP addresses where then transferred into an CSV spreadsheet(https://yaleedu-my.sharepoint.com/:x:/g/personal/tyler_wade_yale_edu/EbnXUzlWBpVMiC5dtgGEjgIBC-D8bXN4vq46IpqSSiiY7Q?e=YEE3CK)
 
--Created a script to replace all agent records with LCNAF Http addresses and set them as the primary agent record identifier 
+-Created a script to replace all agent records with LCNAF Http addresses and set them as the primary agent record identifier (C:\Users\tw722\archive_space\aspace_tools\src\aspace_tools\import_requests_agents.py)
 
 
 # Notes
