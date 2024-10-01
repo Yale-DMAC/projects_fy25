@@ -17,12 +17,13 @@ Last updated on [10/1/2024] by [Tyler Wade].
 
 
 # Background
-Detailed Background of the project, data, and services. Include reasons why specific decisions were made.
+N/A
 
 
 # Process
-- List steps here
-
+-needed to identify all agent records imported from LCNAF that do not include the full HTTP addresses
+-all agent records that did not have LCNAF HTTP addresses where then transferred into an CSV spreadsheet(https://yaleedu-my.sharepoint.com/:x:/g/personal/tyler_wade_yale_edu/EbnXUzlWBpVMiC5dtgGEjgIBC-D8bXN4vq46IpqSSiiY7Q?e=YEE3CK)
+-Created a script to replace all agent records with LCNAF Http addresses and set them as the primary agent record identifier 
 # Notes
 (Keep track of meetings and formal communication of the project. Also include any highlights in the project's progress such as roadblocks or changes in approach.)
 
