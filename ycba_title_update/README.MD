@@ -3,7 +3,7 @@ Last updated on [9/17/2024] by [Tyler Wade].
 
 | Start Date | End Date | Contributors | Informed Stakeholders |
 | ---------- | -------- | ------------ | --------------------- |
-| 08/14/2024  09/05/2024|  Tyler Wade  | Alicia Deletich       |                       |
+| 08/14/2024 |09/05/2024|  Tyler Wade  | Alicia Deletich       |                       |
 
 # Overview
 ## Problem Statement
@@ -32,7 +32,7 @@ N/A
 |08/14/2024|Introduction to Project|Alicia Detelich introduced this project briefly as my second task/project.|
 |08/22/2024|Meeting|Asked Alicia Detelich about 'update_title.py' script, how it works and things I can try to make it work.|
 |08/29/2024|Meeting|Finally got script to work correctly and recived permission to update <emph> tags in Aspace production instance.|
-|09/05/2024|Meeting|<emph> tags project/task completed.|
+|09/05/2024|Meeting| project/task completed.|
 
 
 # Review
