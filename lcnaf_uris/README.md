@@ -42,7 +42,7 @@ Include details about the amount of records, shared traits, collection informati
 ## Communication
  ||Alicia Detelich | Head of Special Collections Metadata Services in Beinecke |Alicia Detelich gave advice and direction on how to complete project/task|
 ## Results
-Describe the outcome of the project and describe any relevant issues that arose.
+Https address replacement/updates ran smoothly with no issues
 
 # References
 
