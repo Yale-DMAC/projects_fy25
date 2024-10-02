@@ -45,6 +45,8 @@ N/A
 # Review
 
 ## Data Details
+These are just a few samples of the records with <emph> titles that needed updating. Overall it was more than 1500 records that needed updating.
+
 |uri|                                            |title|
 
 -|/repositories/2/archival_objects/3848|  <emph>Letter from Ruvigny de Cosne to James Bruce</emph> : autograph manuscript signed|
