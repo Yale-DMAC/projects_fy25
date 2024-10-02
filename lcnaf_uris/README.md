@@ -38,9 +38,11 @@ N/A
 # Review
 
 ## Data Details
-Include details about the amount of records, shared traits, collection information, etc.
+1680 agent records needed to have their record identifier's replaced with new LOC Http addresses as the primary agent record identifier.
+
 ## Communication
  ||Alicia Detelich | Head of Special Collections Metadata Services in Beinecke |Alicia Detelich gave advice and direction on how to complete project/task|
+ 
 ## Results
 Https address replacement/updates ran smoothly with no issues
 
