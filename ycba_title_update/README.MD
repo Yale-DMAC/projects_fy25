@@ -40,15 +40,6 @@ N/A
 |08/22/2024|Meeting|Asked Alicia Detelich about 'update_title.py' script, how it works and things I can try to make it work.|
 |08/29/2024|Meeting|Finally got script to work correctly and recived permission to update <emph> tags in Aspace production instance.|
 |09/05/2024|Meeting| project/task completed.|
-=======
-|08/14/2024|Introduction to Project|Alicia Detelich introduced this project briefly as my second task/project.
-
-|08/22/2024|Meeting|Asked Alicia Detelich about 'update_title.py' script, how it works and things I can try to make it work.
-
-|08/29/2024|Meeting|Finally got script to work correctly and recived permission to update <emph> tags in Aspace production instance.
-
-|09/05/2024|Meeting| bold tags/titles project/task completed.
->>>>>>> 2fe82fcabfe1e25bcc18862b66ba8d74f4be7bfa
 
 
 # Review
