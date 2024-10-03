@@ -4,8 +4,8 @@ import json
 
 # ArchivesSpace connection details
 aspace_url = 'https://testarchivesspace.library.yale.edu/api'
-username = 'tw722'
-password = 'cipzux-2sovgu-wuZsiq'
+username = ''
+password = ''
 
 # CSV file path
 csv_file_path = 'C:/Users/tw722/Downloads/updated_filtered_agents_without_http.csv'  # Update this path as necessary
