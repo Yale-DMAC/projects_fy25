@@ -76,6 +76,9 @@ Submitted two excel files to Ellen Doon consisting of 12 sheets each. The first 
 The first file was for all the repositories in ArchivesSpace.
 The second file was for just 'Manuscripts and Archives' and 'Area Studies'. However, 'Area Studies' currently has no assessments in ArchivesSpace so the file currently only reports on Manuscripts and Archives. Code should work to create a file for both should it be rerun after Area Studies has some assessments added in.
 
+### Update 10/10/2024
+Submitted an excel file of an update requested by Ellen Doon. The report covered Area Studies, Divinity Library, Arts Library, Medical Library, and the MSSA. However, Area Studies still has 0 assessments available in ArchivesSpace so no data was available for it in the report.
+
 # References
 
 - [Github Issue - Special Collections Backlog Reporting](https://github.com/orgs/Yale-DMAC/projects/1/views/1?pane=issue&itemId=74105188)
