@@ -1,9 +1,10 @@
 # SC Assessment Backlog Project
-Last updated on 08/23/2024 by Kylene Hutchinson.
+Last updated on 10/10/2024 by Kylene Hutchinson.
 
 | Start Date | End Date   | Contributors      | Informed Stakeholders       |
 | ---------- | ---------- | ----------------- | --------------------------- |
 | 08/14/2024 | 08/23/2024 | Kylene Hutchinson | Alicia Deletich, Ellen Doon |
+| 10/08/2024 | 10/10/2024 | Kylene Hutchinson | Alicia Detelich, Ellen Doon |
 
 # Overview
 ## Problem Statement
@@ -43,7 +44,8 @@ See [SC_Assessment_Backlog_Report.py](SC_Assessment_Backlog_Report.py), [SC_Asse
 | 08/19/2024 | Code Test               | Using Alicia's provided SQL code, I wrote a python script that queries the SQL database and returns two excel files, one reviewing all repositories and the other just the MSSA and Area_Studies repositories. The first worksheet is the results of the SQL query, but the subsequent sheets are summaries of the data. (For example, sheet two is a count of records by Repository name, and sheet 3 is a count of format types, etc.) |
 | 08/20/2024 | Review and Update       | Tested my code for creating summary reports and came back equal to Alicia's during tests. Only I realized some cells had multi values so I had to backtrack and spilt cells before doing value counts. Added in code to replace null values with 'None' in the summarize code so the summaries would keep track of number of records with no input in a column.                                                                          |
 | 08/22/2024 | Meeting                 | Met with SCMS unit, and briefly presented my work. Had a few lingering questions answered by Alicia and got the go ahead to email results to Ellen Doon.                                                                                                                                                                                                                                                                                 |
-| 08/23/2024 | Finalize and Submit     | Made a few minor changes - such as changing the where statement from repo names to repo id, and added in existing description checkbox counts to the summary tabs. Then emailed the results to Ellen Doon cc'ing Alicia.                                                                                                                                                                                                                 |
+| 08/23/2024 | Finalize and Submit     | Made a few minor changes - such as changing the where statement from repo names to repo id, and added in existing description checkbox counts to the summary tabs. Then emailed the results to Ellen Doon cc'ing Alicia. 
+| 10/10/2024 | Update | Ellen Doon requested an updated file containing a report for all the assessment data in Area Studies, Divinity, Arts, and MSSA. Area Studies still has no assessments but the rest of the repositories had data to make a report with. |                                                                                                                                                                                                                |
 
 # Review
 
@@ -55,7 +57,7 @@ See [SC_Assessment_Backlog_Report.py](SC_Assessment_Backlog_Report.py), [SC_Asse
 ## Communication
 | Name            | Position                                                         | Notes                                                                                                                                                                         |
 | --------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ellen Doon      | Assistant Director of Access Services and Operations at Beinecke | - Submitted emails requesting reports.<br>- I sent the excel sheets of the reports she requested<br>- She is reaching out to the Area Studies folks to find out what happened |
+| Ellen Doon      | Assistant Director of Access Services and Operations at Beinecke | - Submitted emails requesting reports.<br>- I sent the excel sheets of the reports she requested<br>- She is reaching out to the Area Studies folks to find out what happened<br>- Ellen still has no confirmation on Area Studies assessments but asked for a new report for specific repos<br>- Submitted Updated Report |
 | Alicia Detelich | Head of Special Collections Metadata Services at Beinecke        | Provided background and files to review.                                                                                                                                      |
 ## Results
 Submitted two excel files to Ellen Doon consisting of 12 sheets each. The first sheet was the results of the SQL query, and the other 11 sheets were the requested summaries:
