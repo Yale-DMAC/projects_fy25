@@ -18,7 +18,7 @@ The structure of the notes is generally as follows:
 "A copy of this material is available in digital form from Manuscripts and Archives. Contact Manuscripts and Archives at [beinecke.library@yale.edu](mailto:beinecke.library@yale.edu) to request access to the digital copy." The text after the 'Preservica' part of the note varies depending on the name of the record in Preservica.
 
 # Process
-See [[preservica_notes.py]] 
+See [preservica_notes.py](preservica_notes.py)
 - Pull a list of URIs from the SQL database for Archival Objects with the  'A copy of this material is available in digital form from Manuscripts and Archives' note, who have a digital object attached with a DCS or Aviary url.
 - Put the URIs in a csv file
 - Save backups of each object into a folder using the API
