@@ -1,5 +1,5 @@
 # SCMS FY25 Project Repo
-Last updated 09/25/2024 by Kylene Hutchinson
+Last updated 10/21/2024 by Kylene Hutchinson
 
 ## Overview
 These are projects and tasks worked on by the SCMS unit during the Fiscal Year July 2024 - June 2025.  
@@ -20,3 +20,4 @@ These are projects and tasks worked on by the SCMS unit during the Fiscal Year J
 | [Lux Parent Query](/lux_parent_query) | Kylene Hutchinson | ArchivesSpace, Lux | Pulls a report of records that have both a child and a sibling without a child |
 | [Reassociation](/reassociation) | Tyler Wade | ArchivesSpace, DCS | |
 | [YCBA Repository Merge](/ycba_repo_merge) | Kylene Hutchinson | ArchivesSpace | Transfers the records and merges the two repositories belonging to the YCBA in ArchivesSpace |
+| [Preservica Notes for Records with DCS Images](/dcs_preservica_notes) | Kylene Hutchinson | ArchivesSpace | Deletes the A copy of this material is available in digital form from Manuscripts and Archives. Contact Manuscripts and Archives at [beinecke.library@yale.edu](mailto:beinecke.library@yale.edu) to request access to the digital copy." note from records with an Aviary or DCS digital object attached. |
