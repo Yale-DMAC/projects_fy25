@@ -19,6 +19,7 @@ ArchivesSpace has been updated to reject records with incorrect controlled value
 
 ## Process
 See [controlled_value_cleanup_report.py](controlled_value_cleanup_report.py), [controlled_value_cleanup_migrate.py](controlled_value_cleanup_migrate.py), and [240903_enum_migration.xlsx](240903_enum_migration.xlsx) for files relevant to this project.
+See [241022_enum_migration.xlsx](241022_enum_migration.xlsx) for the update merge.
 - Create SQL query that counts the number of records using each extent or container_type
 - Created a SQL query that pulled the container_types with no discernable merge instance, and included the name of the user that created it as well as the URI of the records.
 	- Contacted the Users in the report and confirmed it was appropriate to merge these into folder
@@ -39,6 +40,8 @@ See [controlled_value_cleanup_report.py](controlled_value_cleanup_report.py), [c
 | 08/30/2024 | Tested Migration API    | Keep getting a 403 when trying to migrate enumeration data. Might be missing the 'update_enumeration_record' permission.<br>Created a script that allows the user to input an excel sheet with columns 'to', 'from', and 'enumid' which should migrate each row in the spreadsheet.                                                              |
 | 09/03/2024 | Tested Migration API    | Alicia gave necessary permissions in test environment. Ran my code and everything came back as expected. Spot checked a few records and everything appeared to be the correct type.                                                                                                                   |
 | 09/04/2024 | Migrated Enum Values | Ran the migration in production. Everything merged smoothly. |
+| 10/21/2024 | New Errors | New bad values appeared in the Container Types Controlled value list. Numerical Values instead of 'folder' being used. Most of these look like they've already been cleaned up in the record but the values need to be merged to clean up the list. |
+| 10/22/2024 | Migrated Enum Values | Ran the migration code in production. Everything merged smoothly. |
 
 # Review
 
