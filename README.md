@@ -21,4 +21,5 @@ These are projects and tasks worked on by the SCMS unit during the Fiscal Year J
 | [Reassociation](/reassociation) | Tyler Wade | ArchivesSpace, DCS | |
 | [YCBA Repository Merge](/ycba_repo_merge) | Kylene Hutchinson | ArchivesSpace | Transfers the records and merges the two repositories belonging to the YCBA in ArchivesSpace |
 | [Preservica Notes for Records with DCS Images](/dcs_preservica_notes) | Kylene Hutchinson | ArchivesSpace | Deletes the A copy of this material is available in digital form from Manuscripts and Archives. Contact Manuscripts and Archives at [beinecke.library@yale.edu](mailto:beinecke.library@yale.edu) to request access to the digital copy." note from records with an Aviary or DCS digital object attached. |
-| [Top_container_rooms_report](/top_container_rooms_report) | Kylene Hutchinson | ArchivesSpace | Adds a custom report to the yale-archivesspace-reports plugin for reports on top containers by room and building location. |
+| [Top container rooms report](/top_container_rooms_report) | Kylene Hutchinson | ArchivesSpace | Adds a custom report to the yale-archivesspace-reports plugin for reports on top containers by room and building location. |
+| [Published Preservica Notes](/published_preservica_notes) | Kylene Hutchinson | ArchivesSpace | Unpublishes Preservica notes that were mistakenly published. |
