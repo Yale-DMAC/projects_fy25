@@ -3,7 +3,7 @@ Last updated on 11/14/2024 by Kylene Hutchinson.
 
 | Start Date | End Date | Contributors      | Informed Stakeholders |
 | ---------- | -------- | ----------------- | --------------------- |
-| 11/12/2024 |          | Kylene Hutchinson | Alicia Detelich       |
+| 11/12/2024 | 11/14/2024 | Kylene Hutchinson | Alicia Detelich       |
 # Overview
 ## Problem Statement
 Some access restriction notes in ArchivesSpace contain dates in the free-text part of the note, but nothing in the structured date part of the note. In order to facilitate management of this data in ArchivesSpace and Aeon, we need to convert all free-text dates to structured dates.
