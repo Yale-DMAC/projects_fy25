@@ -25,3 +25,4 @@ These are projects and tasks worked on by the SCMS unit during the Fiscal Year J
 | [Published Preservica Notes](/published_preservica_notes) | Kylene Hutchinson | ArchivesSpace | Unpublishes Preservica notes that were mistakenly published. |
 | [Orphan Subject and Agent Records](/orphan_agents_and_subjects) | Kylene Hutchinson | ArchivesSpace | Deletes Agents and Subjects that are not linked to any records. |
 | [Machine-Actionable Restriction Notes](/machineactionable_restriction_notes) | Kylene Hutchinson | ArchivesSpace | Transforms free-text in access restriction notes into structured data dates. |
+| [MUL Languages](/mul_languages) | Kylene Hutchinson | ArchivesSpace | Adds language subrecords to MUL language records with languages from the language notes field |
