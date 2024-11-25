@@ -1,5 +1,5 @@
 # Top Containers Rooms Custom Report
-Last updated on 10/22/2024 by Kylene Hutchinson.
+Last updated on 11/25/2024 by Kylene Hutchinson.
 
 | Start Date | End Date | Contributors | Informed Stakeholders |
 | ---------- | -------- | ------------ | --------------------- |
@@ -22,11 +22,12 @@ Requires testing in a Docker Environment before submitting via pull request on g
 
 
 # Process
-See [top_containers_room.rb](top_containers_room.rb) and [en.yml](en.yml)  
+See [top_containers_room.rb](top_containers_room.rb), [_building.html.erb](_building.html.erb), [_roomname.html.erb](_roomname.html.erb), and [en.yml](en.yml)  
 - Create a local ArchivesSpace enivironment using Docker.
 - Install yale-archivesspace-reports to the plugins folder.
 - Create a .rb in the backend/model folder containg a SQL query and ruby.
 - Update the en.yml file in frontend/locales add to the list a title, description, and identifier-prefix for your report. Add any new parameters to the parameter list.
+- Add parameter files to frontend/views/jobs/report_partials as _parameter.html.erb
 
 # Notes
 | Date | Highlight | Notes |
@@ -37,6 +38,7 @@ See [top_containers_room.rb](top_containers_room.rb) and [en.yml](en.yml)
 | 10/10/2024 | Updating Docker | Trying to set up a custom Yale ArchivesSpace environment to ensure everything works as expected with our data. |
 | 10/18/2024 | Yale Enviroment Failed | Failed to set up a custom Yale ArchivesSpace environment in a timely manner. Current device is struggling to index our records due to a lack of RAM and I am unable to set up an ArchivesSpace 3.1 environment, likely due to a gems update that no longer works with older versions of ArchivesSpace. Yale is currently running on 3.1 but I have to run a 3.5 environment. Likely not to cause any issues with custom reports but may cause issues with plugin creations until Yale updates to 3.5 |
 | 10/22/2024 | Sent Pull Request | Sent pull request to yale-archivesspace-reports |
+| 11/25/2024 | Update | Forgot to add the parameters files to the project folder. |
 
 # Review
 
