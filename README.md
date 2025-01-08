@@ -1,5 +1,5 @@
 # SCMS FY25 Project Repo
-Last updated 10/21/2024 by Kylene Hutchinson
+Last updated 01/07/2025 by Kylene Hutchinson
 
 ## Overview
 These are projects and tasks worked on by the SCMS unit during the Fiscal Year July 2024 - June 2025.  
@@ -27,3 +27,5 @@ These are projects and tasks worked on by the SCMS unit during the Fiscal Year J
 | [Machine-Actionable Restriction Notes](/machineactionable_restriction_notes) | Kylene Hutchinson | ArchivesSpace | Transforms free-text in access restriction notes into structured data dates. |
 | [MUL Languages](/mul_languages) | Kylene Hutchinson | ArchivesSpace | Adds language subrecords to MUL language records with languages from the language notes field |
 | [Trailing Zeros](/trailing_zeros) | Kylene Hutchinson | ArchivesSpace | Removes the unnecessary .0 at the end of extent numbers. |
+| [ICCU 16th Century Report](/iccu_16thcentury/report) | Kylene Hutchinson | Voyager | Creates a csv report from Voyager using SQL |
+| [Container Summary Parentheses](/container_summary/parentheses) | Kylene Hutchinson | ArchivesSpace | Removes parentheses from the extent container summaries if the summary starts with a parenthesis. |
