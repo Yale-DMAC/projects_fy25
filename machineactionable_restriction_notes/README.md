@@ -1,5 +1,5 @@
 # Machine-Actionable Restriction Notes
-Last updated on 11/14/2024 by Kylene Hutchinson.
+Last updated on 02/13/2025 by Kylene Hutchinson.
 
 | Start Date | End Date | Contributors      | Informed Stakeholders |
 | ---------- | -------- | ----------------- | --------------------- |
@@ -30,6 +30,9 @@ See [machineactionable_restriction_notes.py](machineactionable_restriction_notes
 | 11/13/2024 | Explored data   | Records the total notes with this issues and details about them. Looked for any other complications besides multiple dates. Found abbreviated dates.                                                                                                                                                   |
 | 11/14/2024 | Testing         | Tested code in the Test Environment. Originally had complications with abbreviated dates and 'rights_restriction' dictionaries missing. Made some changes to the code and these updated smoothly. Only one came back with a 409, due to the fact it is locked from editing due to to being suppressed . |
 | 11/14/2024 | Complete | Ran the code in Production with permission from Alicia. The 28 notes with 2 dates are a seperate project as these are likely dates that need to be transferred from parent to children. |
+| 02/05/2025 | Update | Mary Caldera (head of the Archival Description Unit) reached out to mention a handful of collection level records had incorrect expiration dates. After reviewing it was revealed this was the result of inconsistant practices where on these records the archivist applied a note describing the restriction date of specific materials contained within. Temporarily the expiration date was removed for all collection, series, and subseries level records. |
+| 02/10/2025 | Review | I sent a list of parent records for Mary to look over with my suggestions. There was less than 100 so it was simple to review. Mary made some edits to my suggestion and gave approval of which notes to add the dates back in, which to delete completely, and which to leave as. |
+| 02/13/2025 | Complete | Records are now updated as suggested. In the future these record levels will need manual review. |
 
 # Review
 
@@ -61,8 +64,10 @@ See [machineactionable_restriction_notes.py](machineactionable_restriction_notes
 | Name            | Position                                                   | Notes                                                      |
 | --------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
 | Alicia Detelich | Assistant Director of Special Collection Metadata Services | - Assigned Project<br>-Approved Running Code in Production |
+| Mary Caldera | Associate Director of Archival Description | - Requested some edits be made<br>- Approved changes |
 ## Results
-Ran in production without any issue. Free-Text dates were copied into Structured Data dates on Conditions Governing Access notes. Ran on 481 records throughout 5 repositories in ArchivesSpace. One record returned a 409, but that is because it is suppressed and cannot be edited. 
+Ran in production without any issue. Free-Text dates were copied into Structured Data dates on Conditions Governing Access notes. Ran on 481 records throughout 5 repositories in ArchivesSpace. One record returned a 409, but that is because it is suppressed and cannot be edited.
+UPDATE: Removed the end dates to certain parent level records whose notes were describing the end dates of some of its contents.
 
 # References
 
