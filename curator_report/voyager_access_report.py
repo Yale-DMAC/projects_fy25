@@ -93,7 +93,8 @@ def main():
         if row[0] in curators:
             row_with_field = row + (curators[row[0]],)
             filtered_sql_data.append(row_with_field)
-    csv_config('curator_report', sql_query(F_QUERY), True)
+    full_query = sql_query(F_QUERY)
+    csv_config('curator_report', full_query, True)
     csv_config('curator_report', filtered_sql_data, True)
     print("End Time: ", time.strftime("%H:%M:%S"))
 
