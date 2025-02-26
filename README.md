@@ -28,7 +28,7 @@ These are projects and tasks worked on by the SCMS unit during the Fiscal Year J
 | [MUL Languages](/mul_languages) | Kylene Hutchinson | ArchivesSpace | Adds language subrecords to MUL language records with languages from the language notes field |
 | [Trailing Zeros](/trailing_zeros) | Kylene Hutchinson | ArchivesSpace | Removes the unnecessary .0 at the end of extent numbers. |
 | [ICCU 16th Century Report](/iccu_16thcentury/report) | Kylene Hutchinson | Voyager | Creates a csv report from Voyager using SQL |
-| [Container Summary Parentheses](/container_summary_parenthesess) | Kylene Hutchinson | ArchivesSpace | Removes parentheses from the extent container summaries if the summary starts with a parenthesis. |
+| [Container Summary Parentheses](/container_summary_parentheses) | Kylene Hutchinson | ArchivesSpace | Removes parentheses from the extent container summaries if the summary starts with a parenthesis. |
 | [URL Checker](/url_checker) | Kylene Hutchinson | ArchivesSpace | Checks the notes for URLs then checks the URLs for broken links. |
 | [Curator Report](/curator_report) | Kylene Hutchinson | ArchivesSpace and Voyager | Returns a report of Special Collections Records with curator notes or certain database connections. |
 | [Papyrus Report](/papyrus_report) | Kylene Hutchinson | ArchivesSpace | Returns a report for researchers on the Papyrus Collection. |
