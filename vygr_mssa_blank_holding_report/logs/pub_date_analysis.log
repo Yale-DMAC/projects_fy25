@@ -1,0 +1,35 @@
+2025-04-24 17:10:17,543 - INFO - Reading input CSV: ../mssa_diss_blank_mfhd__202504241239.csv
+2025-04-24 17:10:17,584 - INFO - Read 11566 records.
+2025-04-24 17:10:17,584 - INFO - --- Analyzing Column: 'BEGIN_PUB_DATE' ---
+2025-04-24 17:10:17,588 - INFO - Found 1 blank value(s).
+2025-04-24 17:10:17,589 - INFO -   MFHD_ID(s) with blank 'BEGIN_PUB_DATE': ['13044140']
+2025-04-24 17:10:17,710 - INFO - Processed 11565 non-blank entries.
+2025-04-24 17:10:17,711 - INFO - Found 11551 valid YYYY-formatted years (between 1500-2025).
+2025-04-24 17:10:17,711 - WARNING - Found 5 unique invalid/out-of-range patterns affecting 14 records:
+2025-04-24 17:10:17,712 - WARNING -   - '19uu' (does not match YYYY format) - MFHD_IDs: ['13927740']
+2025-04-24 17:10:17,712 - WARNING -   - '200u' (does not match YYYY format) - MFHD_IDs: ['6756491', '6757444', '6742485', '12133702', '6731758', '12138364']
+2025-04-24 17:10:17,713 - WARNING -   - '9999' (out of plausible range 1500-2025) - MFHD_IDs: ['14505340', '14505338', '14505336', '14505334', '14505339']
+2025-04-24 17:10:17,713 - WARNING -   - '2080' (out of plausible range 1500-2025) - MFHD_IDs: ['8881753']
+2025-04-24 17:10:17,713 - WARNING -   - '2041' (out of plausible range 1500-2025) - MFHD_IDs: ['12619390']
+2025-04-24 17:10:17,717 - INFO - Earliest valid year found: 1878
+2025-04-24 17:10:17,717 - INFO - Latest valid year found: 2020
+2025-04-24 17:10:17,725 - INFO - 
+--- Counts per Decade (based on valid years) ---
+2025-04-24 17:10:17,726 - INFO -   1870s: 1
+2025-04-24 17:10:17,726 - INFO -   1880s: 1
+2025-04-24 17:10:17,727 - INFO -   1890s: 24
+2025-04-24 17:10:17,727 - INFO -   1900s: 52
+2025-04-24 17:10:17,727 - INFO -   1910s: 19
+2025-04-24 17:10:17,728 - INFO -   1920s: 33
+2025-04-24 17:10:17,728 - INFO -   1930s: 108
+2025-04-24 17:10:17,728 - INFO -   1940s: 79
+2025-04-24 17:10:17,728 - INFO -   1950s: 129
+2025-04-24 17:10:17,729 - INFO -   1960s: 141
+2025-04-24 17:10:17,729 - INFO -   1970s: 142
+2025-04-24 17:10:17,730 - INFO -   1980s: 432
+2025-04-24 17:10:17,730 - INFO -   1990s: 2968
+2025-04-24 17:10:17,731 - INFO -   2000s: 3180
+2025-04-24 17:10:17,731 - INFO -   2010s: 3829
+2025-04-24 17:10:17,731 - INFO -   2020s: 413
+2025-04-24 17:10:17,732 - INFO - --------------------------------------------
+2025-04-24 17:10:17,732 - INFO - --- Analysis Complete for 'BEGIN_PUB_DATE' ---

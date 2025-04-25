@@ -1,0 +1,70 @@
+2025-04-24 17:10:13,144 - INFO - Reading CSV file: ../mssa_diss_blank_mfhd__202504241239.csv
+2025-04-24 17:10:13,206 - INFO - CSV file read successfully.
+2025-04-24 17:10:13,206 - INFO - Analyzing uniqueness in columns: MFHD_ID, BIB_ID, TITLE, AUTHOR
+2025-04-24 17:10:13,207 - INFO - Total records: 11566
+
+2025-04-24 17:10:13,207 - INFO - 
+--- Analyzing Column: 'MFHD_ID' ---
+2025-04-24 17:10:13,216 - INFO - Total blank values: 0
+2025-04-24 17:10:13,225 - INFO - Total non-blank values: 11566
+2025-04-24 17:10:13,225 - INFO - Unique non-blank values: 11566
+2025-04-24 17:10:13,226 - INFO - Result: All non-blank values are unique.
+2025-04-24 17:10:13,226 - INFO - ----------------------------
+2025-04-24 17:10:13,227 - INFO - 
+
+2025-04-24 17:10:13,228 - INFO - 
+--- Analyzing Column: 'BIB_ID' ---
+2025-04-24 17:10:13,231 - INFO - Total blank values: 0
+2025-04-24 17:10:13,238 - INFO - Total non-blank values: 11566
+2025-04-24 17:10:13,238 - INFO - Unique non-blank values: 11363
+2025-04-24 17:10:13,239 - INFO - Result: Duplicate non-blank values found.
+2025-04-24 17:10:13,242 - INFO - Number of unique values that appear more than once: 201
+2025-04-24 17:10:13,250 - INFO - Total rows containing non-unique BIB_ID values: 404
+2025-04-24 17:10:13,273 - INFO - Top 5 duplicate values (value: count):
+2025-04-24 17:10:13,274 - INFO -   - "4370533": 4
+2025-04-24 17:10:13,274 - INFO -   - "14965078": 2
+2025-04-24 17:10:13,275 - INFO -   - "14965097": 2
+2025-04-24 17:10:13,275 - INFO -   - "9726062": 2
+2025-04-24 17:10:13,275 - INFO -   - "9726104": 2
+2025-04-24 17:10:13,276 - INFO -   ...
+2025-04-24 17:10:13,276 - INFO - ---------------------------
+2025-04-24 17:10:13,276 - INFO - 
+
+2025-04-24 17:10:13,277 - INFO - 
+--- Analyzing Column: 'TITLE' ---
+2025-04-24 17:10:13,287 - INFO - Total blank values: 0
+2025-04-24 17:10:13,295 - INFO - Total non-blank values: 11566
+2025-04-24 17:10:13,296 - INFO - Unique non-blank values: 11362
+2025-04-24 17:10:13,296 - INFO - Result: Duplicate non-blank values found.
+2025-04-24 17:10:13,300 - INFO - Number of unique values that appear more than once: 202
+2025-04-24 17:10:13,307 - INFO - Total rows containing non-unique TITLE values: 2
+2025-04-24 17:10:13,313 - INFO - Top 5 duplicate values (value: count):
+2025-04-24 17:10:13,314 - INFO -   - "Iroquoian morphology / by Floyd Glenn Lounsbury.": 4
+2025-04-24 17:10:13,314 - INFO -   - "Dialectic Of Freedom / by John Melvin Woody.": 2
+2025-04-24 17:10:13,315 - INFO -   - "Iodine Catalyzed Reaction Between Ceric-sulfate And Arsenious Acid / by Joh...": 2
+2025-04-24 17:10:13,316 - INFO -   - "Experimental study of the mouth region in the amphibian embryo / by Amy Eli...": 2
+2025-04-24 17:10:13,316 - INFO -   - "Image Of The Ideal Communist Militant As Depicted In Communist Party Public...": 2
+2025-04-24 17:10:13,317 - INFO -   ...
+2025-04-24 17:10:13,317 - INFO - --------------------------
+2025-04-24 17:10:13,318 - INFO - 
+
+2025-04-24 17:10:13,318 - INFO - 
+--- Analyzing Column: 'AUTHOR' ---
+2025-04-24 17:10:13,322 - INFO - Total blank values: 3
+2025-04-24 17:10:13,323 - INFO -   MFHD_IDs with blank 'AUTHOR': ['3505793', '8380818', '8896121']
+2025-04-24 17:10:13,329 - INFO - Total non-blank values: 11563
+2025-04-24 17:10:13,329 - INFO - Unique non-blank values: 11347
+2025-04-24 17:10:13,330 - INFO - Result: Duplicate non-blank values found.
+2025-04-24 17:10:13,332 - INFO - Number of unique values that appear more than once: 213
+2025-04-24 17:10:13,337 - INFO - Total rows containing non-unique AUTHOR values: 0
+2025-04-24 17:10:13,342 - INFO - Top 5 duplicate values (value: count):
+2025-04-24 17:10:13,342 - INFO -   - "Lounsbury, Floyd Glenn.": 4
+2025-04-24 17:10:13,343 - INFO -   - "Li, Yan.": 3
+2025-04-24 17:10:13,343 - INFO -   - "Wist, Benjamin O.,": 2
+2025-04-24 17:10:13,344 - INFO -   - "Allen, Robert C.,": 2
+2025-04-24 17:10:13,344 - INFO -   - "Winfield, Oscar Ahlenius,": 2
+2025-04-24 17:10:13,345 - INFO -   ...
+2025-04-24 17:10:13,345 - INFO - ---------------------------
+2025-04-24 17:10:13,345 - INFO - 
+
+2025-04-24 17:10:13,355 - INFO - --- Analysis Complete ---

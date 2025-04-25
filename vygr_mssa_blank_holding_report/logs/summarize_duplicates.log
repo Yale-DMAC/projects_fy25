@@ -1,0 +1,10 @@
+2025-04-24 16:32:18,534 - INFO - Reading input CSV: ../mssa_diss_blank_mfhd__202504241239.csv
+2025-04-24 16:32:18,589 - INFO - Read 11566 records.
+2025-04-24 16:32:18,590 - INFO - --- Analyzing duplicates in column: 'BIB_ID' ---
+2025-04-24 16:32:18,607 - INFO - Found 201 non-unique values in column 'BIB_ID'.
+2025-04-24 16:32:18,616 - INFO - --- Analyzing duplicates in column: 'TITLE' ---
+2025-04-24 16:32:18,634 - INFO - Found 202 non-unique values in column 'TITLE'.
+2025-04-24 16:32:18,640 - INFO - --- Analyzing duplicates in column: 'AUTHOR' ---
+2025-04-24 16:32:18,654 - INFO - Found 213 non-unique values in column 'AUTHOR'.
+2025-04-24 16:32:18,671 - INFO - Duplicate summary saved to: ../data/duplicate_summary_by_value.csv
+2025-04-24 16:32:18,671 - INFO - --- Duplicate Summary Analysis Complete ---

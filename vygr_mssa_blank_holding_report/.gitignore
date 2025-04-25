@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# VS Code settings
+.vscode/
