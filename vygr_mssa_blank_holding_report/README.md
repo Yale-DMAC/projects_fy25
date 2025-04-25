@@ -1,4 +1,4 @@
-# Analysis of MSSA Dissertation Holdings with Blank Call Numbers
+# MSSA Dissertation Holdings with Blank Call Numbers
 Last updated on 2025-04-25 by Will Nyarko.
 
 | Start Date | End Date | Contributors | Informed Stakeholders |
@@ -57,7 +57,7 @@ A SQL query was developed to join `MFHD_MASTER`, `BIB_MFHD`, and `BIB_TEXT` tabl
 
 # Resources and References
 
-- `report_mssa_dissertation_blank_holdings.md`: Summary report of the analysis results.
+- [`report_mssa_dissertation_blank_holdings.md`](report_mssa_dissertation_blank_holdings.md): Summary report of the analysis results.
 - [ServiceNow Ticket Screenshot](Screenshot%202025-02-21%20111455.png): Illustrates the missing call number data in Voyager.
 - [MFHD Record Creation Guidelines (Yale)](https://web.library.yale.edu/cataloging/manuscript/mfhd-record)
 - [MARC Format for Holdings Data (MFHD) - Beinecke Manual](https://msu-cataloging-manual.beinecke.library.yale.edu/marc-format-holdings-record-mfhd)
