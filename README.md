@@ -32,4 +32,5 @@ These are projects and tasks worked on by the SCMS unit during the Fiscal Year J
 | [URL Checker](/url_checker) | Kylene Hutchinson | ArchivesSpace | Checks the notes for URLs then checks the URLs for broken links. |
 | [Curator Report](/curator_report) | Kylene Hutchinson | ArchivesSpace and Voyager | Returns a report of Special Collections Records with curator notes or certain database connections. |
 | [Papyrus Report](/papyrus_report) | Kylene Hutchinson | ArchivesSpace | Returns a report for researchers on the Papyrus Collection. |
-
+| [Access Restrictions Report](/access_restrictions_report) | Kylene Hutchinson | ArchivesSpace and Voyager | Returns a report on access restrictions in both Voyager and ArchivesSpace |
+| [Roadmap Multiple Languages](/roadmap_mul_language) | Kylene Hutchinson | ArchivesSpace | Adds additional languages to archival objects in ArchivesSpace |
